@@ -1,7 +1,7 @@
 # bioinformatics
 
 conda create -n drug-disease python=3.5 tensorflow scipy pandas keras\
-Optional: conda install torchvision
+Optional: conda install torchvision\
 source activate drug-disease \
 conda deactivate 
 
