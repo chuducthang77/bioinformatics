@@ -1,6 +1,6 @@
 # bioinformatics
 
-conda create -n drug-disease python=3.5 tensorflow scipy pandas\
+conda create -n drug-disease python=3.5 tensorflow scipy pandas keras\
 source activate drug-disease \
 conda deactivate \
 
